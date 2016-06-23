@@ -1,0 +1,55 @@
+
+body {
+  padding: 5px;
+  margin: 5px;s
+}
+.filterableProductTable {
+  border: 1px solid orange;
+  width: 20%;
+  padding: 5px;
+  margin: 5px;
+}
+
+.searchBar {
+  border: 1px solid blue;
+  padding: 5px;
+  margin: 5px;
+}
+
+.productTable {
+  border: 1px solid limegreen;
+  padding: 5px;
+  margin: 5px;
+}
+
+.productTable label {
+  font-weight: bold;
+  margin-left: 10px;
+  margin-right: 25px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.productTable h2 {
+  margin-left: 20px;
+  display: inline-block
+}
+
+.productCategoryRow {
+  border: 1px solid turquoise;
+  font-weight: bold;
+  padding: 5px;
+  margin: 5px;
+}
+
+
+.productRow {
+  border: 1px solid red;
+  padding: 5px;
+  margin: 5px;
+}
+
+.notStocked {
+  color: red;
+  font-weight: bold;
+}
